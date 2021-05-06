@@ -1,0 +1,17 @@
+{
+    "name": "dmatrix/telex-client",
+    "description": "Send email/sms provider for phications",
+    "type": "metapackage",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Elijah Okokon",
+            "email": "okoelijah@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "guzzlehttp/guzzle": "7.4.x-dev"
+    }
+}
