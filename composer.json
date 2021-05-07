@@ -1,7 +1,7 @@
 {
     "name": "dmatrix/telex-client",
     "description": "Send email/sms provider for phications",
-    "type": "metapackage",
+    "type": "project",
     "license": "mit",
     "authors": [
         {
