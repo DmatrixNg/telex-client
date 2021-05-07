@@ -1,10 +1,9 @@
 <?php
-namespace DMatrix\Telex\Repository;
+namespace DMatrix\TelexClient\Repository;
 
-use DMatrix\Telex\Repository\Contracts\TelexServiceInterface;
+use DMatrix\TelexClient\Repository\Contracts\TelexServiceInterface;
 use GuzzleHttp\Client as RequestClient;
 use GuzzleHttp\Promise;
-use Illuminate\Support\Arr;
 
 class Telex implements TelexServiceInterface
 {

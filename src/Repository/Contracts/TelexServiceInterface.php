@@ -1,6 +1,6 @@
 <?php
 
-namespace DMatrix\Telex\Repository\Contracts;
+namespace DMatrix\TelexClient\Repository\Contracts;
 
 interface TelexServiceInterface {
 

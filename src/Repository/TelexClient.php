@@ -1,6 +1,6 @@
 <?php
 
-namespace DMatrix\Telex\Repository;
+namespace DMatrix\TelexClient\Repository;
 
 use GuzzleHttp\Client;
 
